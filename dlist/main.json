@@ -1,5 +1,46 @@
 {
-   
+    "STATIC_CONTACTS_MESSAGE": {
+        "ru": [
+            "Наши контакты:", 
+            "Электронная почта: `support@mywalleter.ru",
+            "",
+            "Контакт разработчика: https://dynomake.space"
+            ],
+        "en": [
+            "Service support:", 
+            "Email: `support@mywalleter.ru",
+            "",
+            "Developer contact: https://dynomake.space"
+            ]
+        },
+    "STATIC_CONTACTS_MAKE_A_REVIEW": {
+        "ru": "🔈 Оставить отзыв",
+        "en": "🔈 Leave a feedback"
+        },
+    "STATIC_CONTACTS_TELEGRAM_SUPPORT": {
+        "ru": "\uD83D\uDCF2 Телеграм",
+        "en": "\uD83D\uDCF2 Telegram"
+        },
+    "MAIN_MENU_BUTTON": {
+        "ru": "🗂 Меню",
+        "en": "🗂 Menu"
+        },
+     "GURANTEES_MESSAGE": {
+        "ru": [
+            "Вы можете ознакомиться с отзывами реальных пользователей о нашей работе на мониторингах:", 
+            "",
+            "bestchange.ru",
+            "kurs.expert",
+            "okchanger.ru"
+            ],
+        "en": [
+            "You can read the reviews of real users about our work on monitoring:", 
+            "",
+            "bestchange.com",
+            "rates.guru",
+            "okchanger.com"
+            ]
+        },
     "MAIN_MENU_MESSAGE": {
         "ru": [
             "💱 Сервис по обмену валют MyWalleter", 
