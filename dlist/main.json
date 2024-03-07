@@ -1,0 +1,16 @@
+{
+   
+    "PROFILE_MAIN_ITEM_LORE": {
+        "ru": [
+            "💱 Сервис по обмену валют MyWalleter", 
+            "",
+            "Ваш ID: @$id$"
+            ],
+        "en": [
+            "💱 Currency exchange service MyWalleter", 
+            "",
+            "Your ID: @$id$"
+            ]
+        }
+}
+
