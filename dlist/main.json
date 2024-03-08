@@ -224,8 +224,8 @@
         "en": "Ethereum"
     },
     "CRYPTO_POLYGON_BUTTON": {
-        "ru": "Polygon (MATIC)",
-        "en": "Polygon (MATIC)"
+        "ru": "Polygon",
+        "en": "Polygon"
     },
     "CRYPTO_SOLANA_BUTTON": {
         "ru": "Solana",
@@ -260,8 +260,8 @@
         "en": "USDT Solana"
     },
     "CRYPTO_USDT_TRON_BUTTON": {
-        "ru": "USDT Tron (TRX)",
-        "en": "USDT Tron (TRX)"
+        "ru": "USDT Tron",
+        "en": "USDT Tron"
     }
 }
 
