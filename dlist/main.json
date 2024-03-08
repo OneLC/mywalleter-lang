@@ -183,6 +183,10 @@
         "ru": "Системы платежей",
         "en": "Payment systems"
     },
+    "EXCHANGE_SELECT_CATEGORY_BANKS_BUTTON": {
+        "ru": "Банки",
+        "en": "Banks"
+    },
     "CREATED_AN_APPLICATION_FOR_YOU": {
         "ru": "Заявка создана. Обработка занимает до 15-ти минут. Ожидайте :)",
         "en": "An application was created! Please wait up to 15 minutes."
@@ -262,6 +266,18 @@
     "CRYPTO_USDT_TRON_BUTTON": {
         "ru": "USDT Tron",
         "en": "USDT Tron"
+    },
+    "BANK_ALFABANKRU_BUTTON": {
+        "ru": "Альфа-Банк РФ",
+        "en": "Alfa-Bank RU"
+    },
+    "BANK_TINKOFF_BUTTON": {
+        "ru": "Тинькофф",
+        "en": "Tinkoff"
+    },
+    "BANK_SBER_BUTTON": {
+        "ru": "Сбер",
+        "en": "Sber"
     }
 }
 
