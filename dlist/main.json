@@ -68,6 +68,26 @@
     "MAIN_MENU_GUARANTEES_BUTTON": {
         "ru": "Наши гарантии",
         "en": "Our guarantees"
-        }
+        },
+    "EXCHANGE_SELECT_CATEGORY_FROM_TEXT": {
+        "ru": "💱⤴️ Выберите раздел валюты которую хотите отдать",
+        "en": "💱⤴️ Select the section of the currency you want to give"
+        },
+    "EXCHANGE_SELECT_CATEGORY_CRYPTO_BUTTON": {
+        "ru": "Криптовалюта",
+        "en": "Cryptocurrency"
+        },
+    "EXCHANGE_SELECT_CATEGORY_PAY_SYSTEMS_BUTTON": {
+        "ru": "Системы платежей",
+        "en": "Payment systems"
+    },
+    "BACK_BUTTON": {
+        "ru": "⬅ Назад",
+        "en": "⬅ Back"
+    },
+    "EXCHANGE_CATEGORY_DESC_FROM_TEXT": {
+        "ru": "💱⤴️ Выберите валюту которую хотите отдать:",
+        "en": "Payment systems"
+    }
 }
 
