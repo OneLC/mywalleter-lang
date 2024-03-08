@@ -56,22 +56,38 @@
     "SELECTED_VERIFY_MESSAGE": {
         "ru": [
             "Вы хотите обменять:",
-            "$from$ на $to$", 
+            "$from$ ($from_currency$) на $to$ ($to_currency$)", 
             "",
             "Курс обмена:",
-            "$cost$ ($from$) = 1 ($to$)",
+            "$from_amount$ ($from_currency$) = $to_amount$ ($to_currency$)",
             "",
-            "Минимальная сумма обмена: $from_min$ $from$"
+            "Минимальная сумма обмена: $from_min$ $from_currency$"
             ],
         "en": [
             "You want to exchange:",
-            "$from$ for $to$", 
+            "$from$ ($from_currency$) for $to$ ($to_currency$)", 
             "",
             "Exchange rate:",
-            "$cost$ ($from$) = 1 ($to$)",
+            "$from_amount$ ($from_currency$) = $to_amount$ ($to_currency$)",
             "",
             "Minimum amount of exchange: $from_min$ $from$"
             ]
+    },
+    "SELECTED_GIVE_SELECT_BUTTON": {
+        "ru": "Отдать X кол-во $from_currency$",
+        "en": "Give X amount $from_currency$"
+    },
+    "SELECTED_TAKE_SELECT_BUTTON": {
+        "ru": "Получить X кол-во $to_currency$",
+        "en": "Get X amount $to_currency$"
+    },
+    "SELECTED_VERIFY_UPDATE_BUTTON": {
+        "ru": "\uD83D\uDD04 Обновить курс",
+        "en": "\uD83D\uDD04 Update rate"
+    },
+    "ALLRIGHT_BUTTON": {
+        "ru": "✅ Все верно",
+        "en": "✅ It's okay"
     },
     "MAIN_MENU_START_EXCHANGE_BUTTON": {
         "ru": "\uD83D\uDCCA Обмен",
@@ -97,6 +113,22 @@
         "ru": "💱⤴️ Выберите раздел валюты которую хотите получить",
         "en": "💱⤴️ Select the section of the currency you want to get"
     },
+    "SELECT_AMOUNT_TO": {
+        "ru": "Сколько $currency$ $display% вы хотите получить? (Минимум: $min$ $currency$)",
+        "en": "How much $currency$ $display% do you wanna get? (Minimum: $min$ $currency$)"
+    },
+    "SELECT_AMOUNT_FROM": {
+        "ru": "Сколько $currency$ $display% вы хотите отдать? (Минимум: $min$ $currency$)",
+        "en": "How much $currency$ $display% do you wanna give? (Minimum: $min$ $currency$)"
+    },
+    "SELECT_AMOUNT_TO_MIN_LIMIT": {
+        "ru": "Вы указали число меньше минимального! (Минимум: $min$ $from_currency$)",
+        "en": "You specified not enough for this currency! (Minimum: $min$ $from_currency$)"
+    },
+    "SELECT_AMOUNT_NOT_INTEGER": {
+        "ru": "Вы указали не число. Если вы хотите указать дробное число, используйте ТОЧКУ (.) как разделитель.",
+        "en": "You specified not a Number. If you want to use fractional number, use DOT (.) as delimiter"
+    },
     "EXCHANGE_SELECT_CATEGORY_CRYPTO_BUTTON": {
         "ru": "Криптовалюта",
         "en": "Cryptocurrency"
@@ -108,6 +140,10 @@
     "BACK_BUTTON": {
         "ru": "⬅ Назад",
         "en": "⬅ Back"
+    },
+    "TRY_TO_PRINT_AGAIN_BUTTON": {
+        "ru": "⬅ Ввести заного",
+        "en": "⬅ Try again"
     },
     "EXCHANGE_CATEGORY_DESC_FROM_TEXT": {
         "ru": "💱⤴️ Выберите валюту которую хотите отдать:",
