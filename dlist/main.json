@@ -12,19 +12,19 @@
             "",
             "Developer contact: https://dynomake.space"
             ]
-        },
+    },
     "STATIC_CONTACTS_MAKE_A_REVIEW": {
         "ru": "🔈 Оставить отзыв",
         "en": "🔈 Leave a feedback"
-        },
+    },
     "STATIC_CONTACTS_TELEGRAM_SUPPORT": {
         "ru": "\uD83D\uDCF2 Телеграм",
         "en": "\uD83D\uDCF2 Telegram"
-        },
+    },
     "MAIN_MENU_BUTTON": {
         "ru": "🗂 Меню",
         "en": "🗂 Menu"
-        },
+    },
      "GURANTEES_MESSAGE": {
         "ru": [
             "Вы можете ознакомиться с отзывами реальных пользователей о нашей работе на мониторингах:", 
@@ -40,7 +40,7 @@
             "rates.guru",
             "okchanger.com"
             ]
-        },
+    },
     "MAIN_MENU_MESSAGE": {
         "ru": [
             "💱 Сервис по обмену валют MyWalleter", 
@@ -52,31 +52,35 @@
             "",
             "Your ID: @$id$"
             ]
-        },
+    },
     "MAIN_MENU_START_EXCHANGE_BUTTON": {
         "ru": "\uD83D\uDCCA Обмен",
         "en": "\uD83D\uDCCA Exchange"
-        },
+    },
     "MAIN_MENU_HISTORY_BUTTON": {
         "ru": "📓 История обмена",
         "en": "📓 Echanges history"
-        },
+    },
     "MAIN_MENU_CONTACTS_BUTTON": {
         "ru": "☎️ Контакты",
         "en": "☎️ Support contacts"
-        },
+    },
     "MAIN_MENU_GUARANTEES_BUTTON": {
         "ru": "Наши гарантии",
         "en": "Our guarantees"
-        },
+    },
     "EXCHANGE_SELECT_CATEGORY_FROM_TEXT": {
         "ru": "💱⤴️ Выберите раздел валюты которую хотите отдать",
         "en": "💱⤴️ Select the section of the currency you want to give"
-        },
+    },
+    "EXCHANGE_SELECT_CATEGORY_TO_TEXT": {
+        "ru": "💱⤴️ Выберите раздел валюты которую хотите получить",
+        "en": "💱⤴️ Select the section of the currency you want to get"
+    },
     "EXCHANGE_SELECT_CATEGORY_CRYPTO_BUTTON": {
         "ru": "Криптовалюта",
         "en": "Cryptocurrency"
-        },
+    },
     "EXCHANGE_SELECT_CATEGORY_PAY_SYSTEMS_BUTTON": {
         "ru": "Системы платежей",
         "en": "Payment systems"
@@ -87,7 +91,67 @@
     },
     "EXCHANGE_CATEGORY_DESC_FROM_TEXT": {
         "ru": "💱⤴️ Выберите валюту которую хотите отдать:",
-        "en": "Payment systems"
+        "en": "💱⤴️ Select the currency you want to give"
+    },
+    "EXCHANGE_CATEGORY_DESC_TO_TEXT": {
+        "ru": "💱⤴️ Выберите валюту которую хотите получить:",
+        "en": "💱⤴️ Select the currency you want to get"
+    },
+    "PAYMENT_SYSTEM_SBP_BUTTON": {
+        "ru": "Система быстрых платежей",
+        "en": "Faster Payments System"
+    },
+    "CRYPTO_BTC_BUTTON": {
+        "ru": "Bitcoin",
+        "en": "Bitcoin"
+    },
+    "CRYPTO_DOGE_BUTTON": {
+        "ru": "Dogecoin",
+        "en": "Dogecoin"
+    },
+    "CRYPTO_ETH_BUTTON": {
+        "ru": "Ethereum",
+        "en": "Ethereum"
+    },
+    "CRYPTO_POLYGON_BUTTON": {
+        "ru": "Polygon (MATIC)",
+        "en": "Polygon (MATIC)"
+    },
+    "CRYPTO_SOLANA_BUTTON": {
+        "ru": "Solana",
+        "en": "Solana"
+    },
+    "CRYPTO_TRON_BUTTON": {
+        "ru": "Tron",
+        "en": "Tron"
+    },
+    "CRYPTO_USDC_ETH_BUTTON": {
+        "ru": "USDC ERC20",
+        "en": "USDC ERC20"
+    },
+    "CRYPTO_USDC_MATIC_BUTTON": {
+        "ru": "USDC Polygon",
+        "en": "USDC Polygon"
+    },
+    "CRYPTO_USDC_SOL_BUTTON": {
+        "ru": "USDC Solana",
+        "en": "USDC Solana"
+    },
+    "CRYPTO_USDT_ETH_BUTTON": {
+        "ru": "USDT ERC20",
+        "en": "USDT ERC20"
+    },
+    "CRYPTO_USDT_MATIC_BUTTON": {
+        "ru": "USDT Polygon",
+        "en": "USDT Polygon"
+    },
+    "CRYPTO_USDT_SOL_BUTTON": {
+        "ru": "USDT Solana",
+        "en": "USDT Solana"
+    },
+    "CRYPTO_USDT_TRON_BUTTON": {
+        "ru": "USDT Tron (TRX)",
+        "en": "USDT Tron (TRX)"
     }
 }
 
