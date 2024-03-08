@@ -53,6 +53,26 @@
             "Your ID: @$id$"
             ]
     },
+    "SELECTED_VERIFY_MESSAGE": {
+        "ru": [
+            "Вы хотите обменять:",
+            "$from$ на $to$", 
+            "",
+            "Курс обмена:",
+            "$cost$ ($from$) = 1 ($to$)",
+            "",
+            "Минимальная сумма обмена: $from_min$ $from$"
+            ],
+        "en": [
+            "You want to exchange:",
+            "$from$ for $to$", 
+            "",
+            "Exchange rate:",
+            "$cost$ ($from$) = 1 ($to$)",
+            "",
+            "Minimum amount of exchange: $from_min$ $from$"
+            ]
+    },
     "MAIN_MENU_START_EXCHANGE_BUTTON": {
         "ru": "\uD83D\uDCCA Обмен",
         "en": "\uD83D\uDCCA Exchange"
