@@ -114,16 +114,16 @@
         "en": "💱⤴️ Select the section of the currency you want to get"
     },
     "SELECT_AMOUNT_TO": {
-        "ru": "Сколько $currency$ $display% вы хотите получить? (Минимум: $min$ $currency$)",
-        "en": "How much $currency$ $display% do you wanna get? (Minimum: $min$ $currency$)"
+        "ru": "Сколько $currency$ $display$ вы хотите получить? (Минимум: $min$ $currency$)",
+        "en": "How much $currency$ $display$ do you wanna get? (Minimum: $min$ $currency$)"
     },
     "SELECT_AMOUNT_FROM": {
-        "ru": "Сколько $currency$ $display% вы хотите отдать? (Минимум: $min$ $currency$)",
-        "en": "How much $currency$ $display% do you wanna give? (Minimum: $min$ $currency$)"
+        "ru": "Сколько $currency$ $display$ вы хотите отдать? (Минимум: $min$ $currency$)",
+        "en": "How much $currency$ $display$ do you wanna give? (Minimum: $min$ $currency$)"
     },
     "SELECT_AMOUNT_TO_MIN_LIMIT": {
-        "ru": "Вы указали число меньше минимального! (Минимум: $min$ $from_currency$)",
-        "en": "You specified not enough for this currency! (Minimum: $min$ $from_currency$)"
+        "ru": "Вы указали число меньше минимального! (Минимум: $min$ $currency$)",
+        "en": "You specified not enough for this currency! (Minimum: $min$ $currency$)"
     },
     "SELECT_AMOUNT_NOT_INTEGER": {
         "ru": "Вы указали не число. Если вы хотите указать дробное число, используйте ТОЧКУ (.) как разделитель.",
