@@ -267,10 +267,6 @@
         "ru": "USDT Tron",
         "en": "USDT Tron"
     },
-    "BANK_ALFABANKRU_BUTTON": {
-        "ru": "Альфа-Банк РФ",
-        "en": "Alfa-Bank RU"
-    },
     "BANK_TINKOFF_BUTTON": {
         "ru": "Тинькофф",
         "en": "Tinkoff"
@@ -278,6 +274,56 @@
     "BANK_SBER_BUTTON": {
         "ru": "Сбер",
         "en": "Sber"
-    }
+    },
+    "BANK_ALFABANKRU_BUTTON": {
+        "ru": "Альфа-Банк РФ",
+        "en": "Alfa-Bank RU"
+    },
+
+    "BANK_TEMPLATE_QUESTION": {
+        "ru": "Теперь пожалуйста отправьте в ответ сообщением номер вашей карты ($bank), на которую вы хотите получить перевод.",
+        "en": "Now please reply with the number of your card ($bank) to which you would like to receive the transfer."
+    },
+    "BANK_TEMPLATE_INSTRUCTION": {
+        "ru": "Вам нужно перевести $amount$ $currency$ на карту `$card$` ($bank$)",
+        "en": "You need to make a bank transfer for $amount$ $currency$ to a card `$card$` ($bank$)"
+    },
+
+    "CRYPTO_TEMPLATE_QUESTION": {
+        "ru": "Пожалуйста укажите в отвеном сообщении адрес вашего $what$ кошелька для получения перевода.",
+        "en": "Please specify in the reply message the address of your $what$ wallet to receive the transfer."
+    },
+    "CRYPTO_TEMPLATE_INSTRUCTION": {
+        "ru": "Вам нужно перевести $amount$ $currency$ на криптокошелек: `$wallet$`",
+        "en": "You need to transfer $amount$ $currency$ to wallet: `$wallet$`"
+    },
+
+    "PAYMENT_SYSTEM_SBP_QUESTION": {
+        "ru": "Теперь пожалуйста отправьте в ответ сообщением ваш номер телефона привязанный к системе СБП для получения перевода.",
+        "en": "Now please reply with your phone number linked to the SBP system to receive the transfer."
+    },
+    "PAYMENT_SYSTEM_SBP_INSTRUCTION": {
+        "ru": "Вам нужно перевести $amount$ RUB через систему быстрых платежей в Альфа-Банк *+79933547396*",
+        "en": "You need to transfer $amount$ RUB through the faster payment system to Alfa-Bank *+79933547396*"
+    },
+
+    "CARD_NUMBER_ALFABANKRU": { "ru": "2200150582586498" },
+    "CARD_NUMBER_TINKOFF": { "ru": "5280417711701066" },
+    "CARD_NUMBER_SBER": { "ru": "тут должен быть номер" },
+
+    "WALLET_BTC": { "ru": "кошелек настраиваеться в языках" },
+    "WALLET_DOGE": { "ru": "кошелек настраиваеться в языках" },
+    "WALLET_ETH": { "ru": "кошелек настраиваеться в языках" },
+    "WALLET_POLYGON": { "ru": "кошелек настраиваеться в языках" },
+    "WALLET_SOLANA": { "ru": "кошелек настраиваеться в языках" },
+    "WALLET_TRON": { "ru": "кошелек настраиваеться в языках" },
+    "WALLET_USDC_ETH": { "ru": "кошелек настраиваеться в языках" },
+    "WALLET_USDC_MATIC": { "ru": "кошелек настраиваеться в языках" },
+    "WALLET_USDC_SOL": { "ru": "кошелек настраиваеться в языках" },
+    "WALLET_USDT_ETH": { "ru": "кошелек настраиваеться в языках" },
+    "WALLET_USDT_MATIC": { "ru": "кошелек настраиваеться в языках" },
+    "WALLET_USDT_SOL": { "ru": "кошелек настраиваеться в языках" },
+    "WALLET_USDT_TRON": { "ru": "кошелек настраиваеться в языках" }
+
 }
 
