@@ -138,16 +138,16 @@
         "en": "The status of your exhange was updated now."
     },
     "MAIN_MENU_START_EXCHANGE_BUTTON": {
-        "ru": "\uD83D\uDCCA Обмен",
-        "en": "\uD83D\uDCCA Exchange"
+        "ru": "Обмен",
+        "en": "Exchange"
     },
     "MAIN_MENU_HISTORY_BUTTON": {
         "ru": "📓 История обмена",
         "en": "📓 Echanges history"
     },
     "MAIN_MENU_CONTACTS_BUTTON": {
-        "ru": "☎️ Контакты",
-        "en": "☎️ Support contacts"
+        "ru": "Контакты",
+        "en": "Support contacts"
     },
     "MAIN_MENU_GUARANTEES_BUTTON": {
         "ru": "Наши гарантии",
