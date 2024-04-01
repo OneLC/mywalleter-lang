@@ -2,15 +2,15 @@
     "STATIC_CONTACTS_MESSAGE": {
         "ru": [
             "Наши контакты:", 
-            "Электронная почта: `support@mywalleter.ru`"
+            "Электронная почта: `yanpalkin@gmail.com`"
             ],
             "es": [
                 "Contacta con nosotros:", 
-                "correo electronico: `support@mywalleter.ru`"          
+                "correo electronico: `yanpalkin@gmail.com`"          
                 ],
         "en": [
             "Service support:", 
-            "Email: `support@mywalleter.ru`"
+            "Email: `yanpalkin@gmail.com`"
             ]
     },
     "STATIC_CONTACTS_MAKE_A_REVIEW": {
@@ -24,7 +24,8 @@
     },
     "MAIN_MENU_BUTTON": {
         "ru": "🗂 Меню",
-        "en": "🗂 Menu"
+        "en": "🗂 Menu",
+        "es": "🗂 Menu"
     },
      "GURANTEES_MESSAGE": {
         "ru": [
