@@ -2,9 +2,7 @@
     "STATIC_CONTACTS_MESSAGE": {
         "ru": [
             "Наши контакты:", 
-            "Электронная почта: `support@mywalleter.ru`",
-            "",
-            "Контакт разработчика: https://dynomake.space"
+            "Электронная почта: `support@mywalleter.ru`"
             ],
             "es": [
                 "Contacta con nosotros:", 
@@ -12,9 +10,7 @@
                 ],
         "en": [
             "Service support:", 
-            "Email: `support@mywalleter.ru`",
-            "",
-            "Developer contact: https://dynomake.space"
+            "Email: `support@mywalleter.ru`"
             ]
     },
     "STATIC_CONTACTS_MAKE_A_REVIEW": {
