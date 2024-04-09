@@ -317,23 +317,23 @@
         "ru": "Вам нужно перевести $amount$ RUB через систему быстрых платежей в Альфа-Банк *+79933547396*",
         "en": "You need to transfer $amount$ RUB through the faster payment system to Alfa-Bank *+79933547396*"
     },
-    "CARD_NUMBER_ALFABANKRU": { "ru": "6543" },
-    "CARD_NUMBER_TINKOFF": { "ru": "3445" },
-    "CARD_NUMBER_SBER": { "ru": "тут должен быть номер" },
+    "CARD_NUMBER_ALFABANKRU": { "en": "6543" },
+    "CARD_NUMBER_TINKOFF": { "en": "3445" },
+    "CARD_NUMBER_SBER": { "en": "тут должен быть номер" },
 
-    "WALLET_BTC": { "es": "bc1qs2h94vcqx42qv2ty6gwpzla0ywkeysa9ay6sjm" },
-    "WALLET_DOGE": { "es": "D5MX1GABiPBjVZtAjWwxst4Zghv2AytkLE" },
-    "WALLET_ETH": { "ru": "кошелек настраиваеться в языках" },
-    "WALLET_POLYGON": { "ru": "кошелек настраиваеться в языках" },
-    "WALLET_SOLANA": { "ru": "кошелек настраиваеться в языках" },
-    "WALLET_TRON": { "ru": "кошелек настраиваеться в языках" },
-    "WALLET_USDC_ETH": { "ru": "кошелек настраиваеться в языках" },
-    "WALLET_USDC_MATIC": { "ru": "кошелек настраиваеться в языках" },
-    "WALLET_USDC_SOL": { "ru": "кошелек настраиваеться в языках" },
-    "WALLET_USDT_ETH": { "ru": "кошелек настраиваеться в языках" },
-    "WALLET_USDT_MATIC": { "ru": "кошелек настраиваеться в языках" },
-    "WALLET_USDT_SOL": { "ru": "кошелек настраиваеться в языках" },
-    "WALLET_USDT_TRON": { "ru": "кошелек" }
+    "WALLET_BTC": { "en": "bc1qs2h94vcqx42qv2ty6gwpzla0ywkeysa9ay6sjm" },
+    "WALLET_DOGE": { "en": "D5MX1GABiPBjVZtAjWwxst4Zghv2AytkLE" },
+    "WALLET_ETH": { "en": "кошелек настраиваеться в языках" },
+    "WALLET_POLYGON": { "en": "кошелек настраиваеться в языках" },
+    "WALLET_SOLANA": { "en": "кошелек настраиваеться в языках" },
+    "WALLET_TRON": { "en": "кошелек настраиваеться в языках" },
+    "WALLET_USDC_ETH": { "en": "кошелек настраиваеться в языках" },
+    "WALLET_USDC_MATIC": { "en": "кошелек настраиваеться в языках" },
+    "WALLET_USDC_SOL": { "en": "кошелек настраиваеться в языках" },
+    "WALLET_USDT_ETH": { "en": "кошелек настраиваеться в языках" },
+    "WALLET_USDT_MATIC": { "en": "кошелек настраиваеться в языках" },
+    "WALLET_USDT_SOL": { "en": "кошелек настраиваеться в языках" },
+    "WALLET_USDT_TRON": { "en": "кошелек" }
 
 }
 
