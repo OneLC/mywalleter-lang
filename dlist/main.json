@@ -25,8 +25,8 @@
         "es": "🗂 Menu"
     },
      "GURANTEES_MESSAGE": {
-        "ru": [
-            "Вы можете ознакомиться с отзывами реальных пользователей о нашей работе на мониторингах:", 
+        "es": [
+            "Usted puede leer las opiñones sobre nuestro trabacon en seguientes enpaces:", 
             "",
             "bestchange.ru",
             "kurs.expert",
@@ -41,26 +41,26 @@
             ]
     },
     "MAIN_MENU_MESSAGE": {
-        "ru": [
-            "💱 Сервис по обмену валют MyWalleter", 
+        "es": [
+            "💱 Servicio de cabmio de criptomonedas ChangeWallet", 
             "",
             "Ваш ID: @$id$"
             ],
         "en": [
-            "💱 Currency exchange service MyWalleter", 
+            "💱 Currency exchange service ChangeWallet", 
             "",
             "Your ID: @$id$"
             ]
     },
     "SELECTED_VERIFY_MESSAGE": {
-        "ru": [
-            "Вы хотите обменять:",
+        "es": [
+            "Usted quiere cambiar:",
             "$from$ ($from_currency$) на $to$ ($to_currency$)", 
             "",
-            "Курс обмена:",
+            "Tipo de cambio:",
             "$from_amount$ ($from_currency$) = $to_amount$ ($to_currency$)",
             "",
-            "Минимальная сумма обмена: $from_min$ $from_currency$"
+            "Minimo para cambio: $from_min$ $from_currency$"
             ],
         "en": [
             "You want to exchange:",
@@ -73,13 +73,13 @@
             ]
     },
     "APPLICATION_INFO": {
-        "ru": [
-            "Информация о заявке:",
+        "es": [
+            "Informacion cambio:",
             "ID: $id$",
             "",
             "$from$ ($from_currency$) на $to$ ($to_currency$)", 
             "",
-            "Статус: $status$"
+            "Status: $status$"
             ],
         "en": [
             "Exchange info:",
@@ -91,14 +91,14 @@
             ]
     },
     "PRE_PAY_MESSAGE": {
-        "ru": [
-            "Вы хотите обменять:",
+        "es": [
+            "Usted quiere cambiar:",
             "$from$ ($from_currency$) на $to$ ($to_currency$)", 
             "",
-            "Курс обмена:",
+            "Tipo de cambio:",
             "$from_amount$ ($from_currency$) = $to_amount$ ($to_currency$)",
             "",
-            "Ваш кошелек: $wallet$"
+            "Su monedero: $wallet$"
             ],
         "en": [
             "You want to exchange:",
@@ -111,27 +111,27 @@
             ]
     },
     "SELECTED_GIVE_SELECT_BUTTON": {
-        "ru": "Отдать X кол-во $from_currency$",
+        "es": "Entregar X cantidad $from_currency$",
         "en": "Give X amount $from_currency$"
     },
     "SELECTED_TAKE_SELECT_BUTTON": {
-        "ru": "Получить X кол-во $to_currency$",
+        "es": "Recubir X cantidad $to_currency$",
         "en": "Get X amount $to_currency$"
     },
     "SELECTED_VERIFY_UPDATE_BUTTON": {
-        "ru": "\uD83D\uDD04 Обновить курс",
+        "es": "\uD83D\uDD04 Actualizar cambio",
         "en": "\uD83D\uDD04 Update rate"
     },
     "ALLRIGHT_BUTTON": {
-        "ru": "✅ Все верно",
+        "es": "✅ Todo correcto",
         "en": "✅ It's okay"
     },
     "PAYED_BUTTON": {
-        "ru": "✅ Готово, перевел(а)",
+        "es": "✅ He transferido fondos",
         "en": "✅ I transfeted money"
     },
     "APPLICATION_STATUS_UPDATED": {
-        "ru": "Статус вашей заявки был обновлен.",
+        "es": "Estado de cambio actualizado.",
         "en": "The status of your exhange was updated now."
     },
     "MAIN_MENU_START_EXCHANGE_BUTTON": {
@@ -151,124 +151,123 @@
         "en": "Our guarantees"
     },
     "EXCHANGE_SELECT_CATEGORY_FROM_TEXT": {
-        "ru": "💱⤴️ Выберите раздел валюты которую хотите отдать",
+        "es": "💱⤴️ Elija tipo de fondos a transferir",
         "en": "💱⤴️ Select the section of the currency you want to give"
     },
     "EXCHANGE_SELECT_CATEGORY_TO_TEXT": {
-        "ru": "💱⤴️ Выберите раздел валюты которую хотите получить",
+        "es": "💱⤴️ Elija tipo de fondos a recibir",
         "en": "💱⤴️ Select the section of the currency you want to get"
     },
     "SELECT_AMOUNT_TO": {
-        "ru": "Сколько $currency$ $display$ вы хотите получить? (Минимум: $min$ $currency$)",
+        "es": "Cuanto $currency$ $display$ quiere recibir? (Minimo: $min$ $currency$)",
         "en": "How much $currency$ $display$ do you wanna get? (Minimum: $min$ $currency$)"
     },
     "SELECT_AMOUNT_FROM": {
-        "ru": "Сколько $currency$ $display$ вы хотите отдать? (Минимум: $min$ $currency$)",
+        "es": "Cuanto $currency$ $display$ quiere entregar? (Minimo: $min$ $currency$)",
         "en": "How much $currency$ $display$ do you wanna give? (Minimum: $min$ $currency$)"
     },
     "SELECT_AMOUNT_TO_MIN_LIMIT": {
-        "ru": "Вы указали число меньше минимального! (Минимум: $min$ $currency$)",
+        "es": "Usted puso menos de minimo establecido! (Минимум: $min$ $currency$)",
         "en": "You specified not enough for this currency! (Minimum: $min$ $currency$)"
     },
     "SELECT_AMOUNT_NOT_INTEGER": {
-        "ru": "Вы указали не число. Если вы хотите указать дробное число, используйте ТОЧКУ (.) как разделитель.",
+        "es": "Error de numero. Si su numero no es integro utilice PUNTO (.) para separar.",
         "en": "You specified not a Number. If you want to use fractional number, use DOT (.) as delimiter"
     },
     "EXCHANGE_SELECT_CATEGORY_CRYPTO_BUTTON": {
-        "ru": "Криптовалюта",
+        "es": "Criptomoneda",
         "en": "Cryptocurrency"
     },
     "EXCHANGE_SELECT_CATEGORY_PAY_SYSTEMS_BUTTON": {
-        "ru": "Системы платежей",
+        "es": "Sistemas de pago",
         "en": "Payment systems"
     },
     "EXCHANGE_SELECT_CATEGORY_BANKS_BUTTON": {
-        "ru": "Банки",
+        "es": "Banco",
         "en": "Banks"
     },
     "CREATED_AN_APPLICATION_FOR_YOU": {
-        "ru": "Заявка создана. Обработка занимает до 15-ти минут. Ожидайте :)",
+        "es": "Pedido realizado. Por favor espere 15 minutos.",
         "en": "An application was created! Please wait up to 15 minutes."
     },
     "APPLICATION_CHECK_STATUS": {
-        "ru": "🔄 Обновить статус",
+        "es": "🔄 Actualizar informacion de pedidio",
         "en": "🔄 Update information"
     },
     "BACK_BUTTON": {
-        "ru": "⬅ Назад",
+        "es": "⬅ Volver",
         "en": "⬅ Back"
     },
     "TRY_TO_PRINT_AGAIN_BUTTON": {
-        "ru": "⬅ Ввести заного",
+        "es": "⬅ Empezar de nuevo",
         "en": "⬅ Try again"
     },
     "EXCHANGE_CATEGORY_DESC_FROM_TEXT": {
-        "ru": "💱⤴️ Выберите валюту которую хотите отдать:",
+        "es": "💱⤴️ Elija fondos a entregar:",
         "en": "💱⤴️ Select the currency you want to give"
     },
     "EXCHANGE_CATEGORY_DESC_TO_TEXT": {
-        "ru": "💱⤴️ Выберите валюту которую хотите получить:",
+        "es": "💱⤴️ Elija fondos a recibir:",
         "en": "💱⤴️ Select the currency you want to get"
     },
     "PAYMENT_SYSTEM_SBP_BUTTON": {
-        "ru": "Система быстрых платежей",
+        "es": "Sistemas de pago",
         "en": "Faster Payments System"
     },
     "PAYMENT_SYSTEM_PAYSERA_BUTTON": {
-        "ru": "PAYSERA",
         "en": "PAYSERA",
         "es": "Pagos online"
     },
     "CRYPTO_BTC_BUTTON": {
-        "ru": "Bitcoin",
+        "es": "Bitcoin",
         "en": "Bitcoin"
     },
     "CRYPTO_DOGE_BUTTON": {
-        "ru": "Dogecoin",
+        "es": "Dogecoin",
         "en": "Dogecoin"
     },
     "CRYPTO_ETH_BUTTON": {
-        "ru": "Ethereum",
+        "es": "Ethereum",
         "en": "Ethereum"
     },
     "CRYPTO_POLYGON_BUTTON": {
-        "ru": "Polygon",
+        "es": "Polygon",
         "en": "Polygon"
     },
     "CRYPTO_SOLANA_BUTTON": {
-        "ru": "Solana",
+        "es": "Solana",
         "en": "Solana"
     },
     "CRYPTO_TRON_BUTTON": {
-        "ru": "Tron",
+        "es": "Tron",
         "en": "Tron"
     },
     "CRYPTO_USDC_ETH_BUTTON": {
-        "ru": "USDC ERC20",
+        "es": "USDC ERC20",
         "en": "USDC ERC20"
     },
     "CRYPTO_USDC_MATIC_BUTTON": {
-        "ru": "USDC Polygon",
+        "es": "USDC Polygon",
         "en": "USDC Polygon"
     },
     "CRYPTO_USDC_SOL_BUTTON": {
-        "ru": "USDC Solana",
+        "es": "USDC Solana",
         "en": "USDC Solana"
     },
     "CRYPTO_USDT_ETH_BUTTON": {
-        "ru": "USDT ERC20",
+        "es": "USDT ERC20",
         "en": "USDT ERC20"
     },
     "CRYPTO_USDT_MATIC_BUTTON": {
-        "ru": "USDT Polygon",
+        "es": "USDT Polygon",
         "en": "USDT Polygon"
     },
     "CRYPTO_USDT_SOL_BUTTON": {
-        "ru": "USDT Solana",
+        "es": "USDT Solana",
         "en": "USDT Solana"
     },
     "CRYPTO_USDT_TRON_BUTTON": {
-        "ru": "USDT Tron",
+        "es": "USDT Tron",
         "en": "USDT Tron"
     },
     "BANK_TINKOFF_BUTTON": {
@@ -318,8 +317,8 @@
         "ru": "Вам нужно перевести $amount$ RUB через систему быстрых платежей в Альфа-Банк *+79933547396*",
         "en": "You need to transfer $amount$ RUB through the faster payment system to Alfa-Bank *+79933547396*"
     },
-    "CARD_NUMBER_ALFABANKRU": { "ru": "2200150582586498" },
-    "CARD_NUMBER_TINKOFF": { "ru": "5280417711701066" },
+    "CARD_NUMBER_ALFABANKRU": { "ru": "6543" },
+    "CARD_NUMBER_TINKOFF": { "ru": "3445" },
     "CARD_NUMBER_SBER": { "ru": "тут должен быть номер" },
 
     "WALLET_BTC": { "ru": "кошелек настраиваеться в языках" },
